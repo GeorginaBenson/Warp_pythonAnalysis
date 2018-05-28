@@ -1,0 +1,3 @@
+GaussianNB(priors=None)
+1.0
+['BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'BMX055accel', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q', 'MMA8451Q']

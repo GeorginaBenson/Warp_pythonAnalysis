@@ -1,0 +1,3 @@
+GaussianNB(priors=None)
+1.0
+['BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro', 'BMX055gyro']
