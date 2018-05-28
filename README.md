@@ -24,7 +24,7 @@ This takes the sensor.txt file to be processed and outputs a list in the termina
 
 ## Human readable data to statistical data
 
-In the accelerations_warp_board directory run:
+In the data_processing_warp_board directory run:
 
 `./statistics_generator /path/to/csv/ /path/to/data/or/directory [opt --val_temp yy --test_temp zz]`
 
@@ -58,7 +58,7 @@ statistics csv generated as described above.
 #### sensor_classifier.py
 1. sensor_classifier.py takes in a csv of statistical data, but only looks at the test data
 
-1. It loads in the state of the desired classifier (for now uses Gaussian Naive_Bayes) and gives it a label based on the data it can see.
+1. It loads in the state of the desired classifier (for now uses Gaussian Naive Bayes) and gives it a label based on the data it can see.
 
 1. It has the option to take in unlabelled data.
   
